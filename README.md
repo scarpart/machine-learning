@@ -1,2 +1,2 @@
-# kaggle-data-science
-Data Science/Machine Learning exercises from or using Kaggle datasets.
+# machine-learning
+Machine Learning algorithms, challenges and code.
